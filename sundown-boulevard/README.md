@@ -1,5 +1,4 @@
-### Customize configuration
-valid users:
+### valid users:
 
 lewis@gmail.com
 daniel@hotmail.com
